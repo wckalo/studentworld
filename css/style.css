@@ -1,0 +1,116 @@
+.left{
+	background-color: #8ED2C9;
+	width: 80px;
+	float: left;
+	height: 100%;
+	padding: 10px 10px 0 10px;	
+}
+.right{
+	background-color: #8ED2C9;
+	width:80px;
+	float: left;
+	height: 100%;	
+	padding: 10px 10px 0 10px;
+}
+.main {
+	background-color: #FCF4D9;
+	float: left;
+	width: 580px;
+	height: 100%;
+	padding: 10px 10px 0 10px;
+
+}
+.mainbox{
+	background-color: #00AAA0;
+	display: table;
+	height: 100%;
+	margin: 0pt auto;
+	width: 800px;
+}
+
+.logo img{
+	width: 120px;
+}
+
+.logo{
+	text-align: center;
+}
+
+.menu{
+	text-align: center;
+	height: 60px;
+	font-family: sans-serif;
+}
+
+.menu ul{
+	background-color: #FCF4D9;
+	height: 16px;
+	position: relative;
+	top:20px;
+}
+.menu ul li{
+	display: inline;
+
+}
+.menu ul li a {
+	text-decoration: none;
+	color: #000000;
+	padding-left: 10px;
+	padding-right: 10px;
+}
+.footer{
+	background-color: #F2EDD8;
+	text-align: center;
+	position: fixed;
+	bottom: 0px;
+	width: 800px;
+}
+
+
+html, body{
+	height: 100%;
+}
+body{
+	background-image: url("http://www.publicdomainpictures.net/pictures/130000/velka/aqua-blue-gradient-background.jpg");
+}
+
+
+.intro{
+	font-weight: bold;
+	line-height: 1.5;
+}
+
+p{
+	font-family: Tahoma;
+	font-size: 12px;
+	text-align: justify;
+	line-height: 1.5;
+	padding: 10px 10px 0 10px;
+}
+
+.list li{
+	font-family: Tahoma;
+	font-size: 12px;
+	line-height: 1.5;
+}
+
+.list{
+	padding-left: 20px;
+}
+.bizness{
+	width: 800px;
+	background-color: #F2EDD8;
+	height: 100%;
+}
+.investori{
+	background-color: #F2EDD8;
+	height: 100%;
+	padding: 10px 10px 0 10px;
+}
+.logo img{
+	margin-top: 10px;
+}
+body {
+        background-color: lightblue;
+    }
+}
